@@ -11,21 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Step-1 Clone Project
 
-- Bulleted
-- List
+Step-2 Run npm install
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+Step-3 Run in terminal node put-files.js --token=<YOUR_TOKEN> <Your_File_Name_With_Extension >
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
